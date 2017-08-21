@@ -1,4 +1,5 @@
 # Hello-World
 Just Another Repository
 
-I'm a junior in the position
+Curiosity is lying in wait for every secret.
+I'm a junior in the position.
